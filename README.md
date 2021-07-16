@@ -1,0 +1,2 @@
+# pinkStar
+Uma criação pessoal.
