@@ -1,0 +1,25 @@
+{
+  "name": "pinkStar",
+  "version": "1.0.0",
+  "description": "Uma criação pessoal.",
+  "main": "index.js",
+  "dependencies": {
+    "aoi.js": "^4.2.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R4l7/pinkStar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R4l7/pinkStar/issues"
+  },
+  "homepage": "https://github.com/R4l7/pinkStar#readme"
+}
